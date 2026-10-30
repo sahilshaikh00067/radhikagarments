@@ -7,9 +7,9 @@ const B = {
   gstin: "09AAJCR5559B1Z6",
   since: "03 July 2019",
   address: "Prakash Complex, Kotwali Road, Padrauna, Kushinagar, Uttar Pradesh – 274304",
-  wa: "919999999999", // <-- apna WhatsApp number
-  phone: "+91 99999 99999", // <-- apna phone
-  email: "info@radhikagarments.com", // <-- apni email
+  wa: "919984187183", // <-- apna WhatsApp number
+  phone: "+91 99841 87183", // <-- apna phone
+  email: "tibrewalvishnu@yahhoo.com", // <-- apni email
   insta: "https://instagram.com/", // <-- apna instagram
 };
 const SALE_END = "2026-11-08T00:00:00+05:30";
